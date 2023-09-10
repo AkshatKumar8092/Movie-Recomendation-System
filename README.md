@@ -83,11 +83,3 @@ PROJECT FLOW:
 total movies 4860:  same as number of vectos.
 for each vector we have to find the distance between the each vector
 
-we won't use the ecudiliean distance formula insted we will find the angle between 2 vectors if both have less angle. hence we got our desired movie.
-
-
-for this project its like 5000demension space
-
-distacne is inversaly proportional to 1 by sine(thetha)
-
-
